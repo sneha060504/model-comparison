@@ -28,7 +28,7 @@ The objective of this assignment is to compare different supervised machine lear
 
 ---
 
-## ⚙️ Algorithms Implemented
+##  Algorithms Implemented
 
 1. Logistic Regression  
 2. K-Nearest Neighbors (KNN)  
